@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Arkz-Deepak and I'm a college student 
-- 👀 I’m interested in python,java,c,cpp and any programming language 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Deepak and I'm a college student 
+- 👀 I’m interested in ML integration with ROS2
+- 🌱 I’m currently learning python and ROS2
 - 💞️ I’m looking to collaborate on any beginer projects
-- 📫 How to reach me via discord or by mail
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have just started coding because of a recent movie that i watched
 
 <!---
