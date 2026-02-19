@@ -39,6 +39,7 @@ I am a second-year B.E. student at **Dhaanish Ahmed College of Engineering** (An
 
 [![Deepak's GitHub Streak](https://streak-stats.demolab.com/?user=Arkz-Deepak&theme=radical)](https://github.com/Arkz-Deepak)
 
+[![Deepak's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arkz-Deepak&theme=radical)](https://github.com/Arkz-Deepak)
 
 
 ---
