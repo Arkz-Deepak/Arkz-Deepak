@@ -41,6 +41,18 @@ I am a second-year B.E. student at **Dhaanish Ahmed College of Engineering** (An
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkz-Deepak&layout=compact&theme=radical)](https://github.com/Arkz-Deepak)
 
+<p align="left">
+  <a href="https://github.com/Arkz-Deepak">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arkz-Deepak&show_icons=true&theme=radical" alt="Deepak's GitHub Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Arkz-Deepak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkz-Deepak&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</p>
+
 
 ---
 
