@@ -37,14 +37,15 @@ I am a second-year B.E. student at **Dhaanish Ahmed College of Engineering** (An
 
 ### 📊 GitHub Stats
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkz-Deepak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkz-Deepak&layout=compact&theme=radical)
+[![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkz-Deepak&show_icons=true&theme=radical)](https://github.com/Arkz-Deepak)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkz-Deepak&layout=compact&theme=radical)](https://github.com/Arkz-Deepak)
 
 ---
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robotics-deepak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: wssedd18@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wssedd18@gmail.com)
 
 
