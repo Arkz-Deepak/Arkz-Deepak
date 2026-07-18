@@ -1,37 +1,45 @@
 # Hi there, I'm Deepak R! 👋
 
-### 🤖 Robotics & Automation Engineer in the Making
+### 🤖 Robotics & AI Engineer | ROS 2 & Computer Vision
 
-I am a second-year B.E. student at **Dhaanish Ahmed College of Engineering** (Anna University), passionate about the intersection of hardware and artificial intelligence. My goal is to pursue a PhD in AI/ML and build autonomous systems that solve real-world problems.
+I am a B.E. Robotics and Automation student at **Dhaanish Ahmed College of Engineering** in Chennai, driven by the intersection of autonomous hardware and machine learning. I am currently executing a strict research and development roadmap to transition directly into a high-ranking Ph.D. program in AI and Robotics by early 2029.
 
 ---
 
 ### 🧐 About Me
 
-- 🎓 **Class of 2028:** B.E. in Robotics and Automation.
-- 🔭 **I’m currently working on:** Advanced ROS (Robot Operating System) simulations.
-- 🌱 **I’m currently learning:** Japanese (日本語) and deeper concepts in Machine Learning.
-- 🏆 **Achievements:**
-  - **Best Student Award** (2025 & 2026).
-  - **Build-a-Bot Hackathon:** Team *Arkz* (Scholarship Fraud Detection Bot).
-  - **SIH 2025:** Smart Traffic Management System.
-- ⚡ **Fun fact:** I play *War Thunder Mobile* and I'm fascinated by tank mechanics.
+- 🎓 **Academic Journey:** B.E. in Robotics and Automation (Class of 2028).
+- 🔭 **Current Focus:** Building autonomous vision and navigation pipelines using **ROS 2**, **OpenCV**, and **YOLO**, while systematically mastering data structures via the **LeetCode Top Interview 150**.
+- 🎯 **Next Milestones:** Preparing for upcoming core robotics design projects, research publications, and advanced technical evaluations.
+- 🌱 **Always Learning:** Studying the Japanese language (日本語) to expand my global technical reach.
+- ⚡ **Fun Fact:** When I'm not coding, I'm a dedicated *War Thunder Mobile* tactician—specifically focused on ground vehicle metas and tank progression!
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Experience & Milestones
 
-**Languages & Tools:**
+- 💻 **Machine Learning & AI Intern** @ *Tamizhan Skills (RISE Program)*: Advanced hands-on implementation of machine learning architectures and data pipelines.
+- ⚙️ **Engineering & Manufacturing Internships**: Completed intensives spanning precision manufacturing workflows (CNC/VMC) and industrial engineering environments.
+- 🏆 **Build-a-Bot Hackathon 2026:** Developed a prototype Scholarship Policy Compliance Bot with Team Arkz at the Chennai Institute of Technology (CIT).
+- 🏆 **SIH 2025:** Architected a Smart Traffic Management System.
+- 🏅 **Best Student Award** (2025 & 2026).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Certifications:**
-- NPTEL: **Industrial Robotics**
-- NPTEL: **Digital Circuits**
-- NPTEL: **Joy of Computing using Python**
+- **Linux Basics** - *The Construct*
+- **Industrial Robotics** - *NPTEL*
+- **Digital Circuits** - *NPTEL*
+- **Joy of Computing using Python** - *NPTEL*
 
 ---
 
@@ -41,12 +49,10 @@ I am a second-year B.E. student at **Dhaanish Ahmed College of Engineering** (An
 
 [![Deepak's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arkz-Deepak&theme=radical)](https://github.com/Arkz-Deepak)
 
-
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robotics-deepak)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wssedd18@gmail.com)
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arkz-Deepak)
