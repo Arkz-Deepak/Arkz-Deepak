@@ -1,57 +1,65 @@
-# Hi there, I'm Deepak R! 👋
+<h1 align="center">Hi, I'm Deepak R 👋</h1>
+<h3 align="center">🤖 Robotics & AI Engineer • ROS 2 • Computer Vision • Autonomous Systems</h3>
 
-### 🤖 Robotics & AI Engineer | ROS 2 & Computer Vision
-
-I am a B.E. Robotics and Automation student at **Dhaanish Ahmed College of Engineering** in Chennai, driven by the intersection of autonomous hardware and machine learning. I am currently executing a strict research and development roadmap to transition directly into a high-ranking Ph.D. program in AI and Robotics by early 2029.
-
----
-
-### 🧐 About Me
-
-- 🎓 **Academic Journey:** B.E. in Robotics and Automation (Class of 2028).
-- 🔭 **Current Focus:** Building autonomous vision and navigation pipelines using **ROS 2**, **OpenCV**, and **YOLO**, while systematically mastering data structures via the **LeetCode Top Interview 150**.
-- 🎯 **Next Milestones:** Preparing for upcoming core robotics design projects, research publications, and advanced technical evaluations.
-- 🌱 **Always Learning:** Studying the Japanese language (日本語) to expand my global technical reach.
-- ⚡ **Fun Fact:** When I'm not coding, I'm a dedicated *War Thunder Mobile* tactician—specifically focused on ground vehicle metas and tank progression!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arkz-Deepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Arkz-Deepak?label=Followers&style=flat&color=blue" alt="followers"/>
+</p>
 
 ---
 
-### 💼 Experience & Milestones
+## ✨ About Me
 
-- 💻 **Machine Learning & AI Intern** @ *Tamizhan Skills (RISE Program)*: Advanced hands-on implementation of machine learning architectures and data pipelines.
-- ⚙️ **Engineering & Manufacturing Internships**: Completed intensives spanning precision manufacturing workflows (CNC/VMC) and industrial engineering environments.
-- 🏆 **Build-a-Bot Hackathon 2026:** Developed a prototype Scholarship Policy Compliance Bot with Team Arkz at the Chennai Institute of Technology (CIT).
-- 🏆 **SIH 2025:** Architected a Smart Traffic Management System.
-- 🏅 **Best Student Award** (2025 & 2026).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Certifications:**
-- **Linux Basics** - *The Construct*
-- **Industrial Robotics** - *NPTEL*
-- **Digital Circuits** - *NPTEL*
-- **Joy of Computing using Python** - *NPTEL*
+- 🎓 B.E. Robotics and Automation student (**Class of 2028**) at Dhaanish Ahmed College of Engineering, Chennai.
+- 🔭 Building autonomous vision + navigation pipelines with **ROS 2**, **OpenCV**, and **YOLO**.
+- 🧠 Strengthening fundamentals through **LeetCode Top Interview 150**.
+- 🎯 Roadmap focused on research projects, publications, and advanced technical evaluations toward a Ph.D. track.
+- 🌏 Learning Japanese (日本語) to expand global collaboration opportunities.
+- ⚡ Outside engineering: strategy-heavy *War Thunder Mobile* gameplay and meta optimization.
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Experience & Milestones
 
-[![Deepak's GitHub Streak](https://streak-stats.demolab.com/?user=Arkz-Deepak&theme=radical)](https://github.com/Arkz-Deepak)
-
-[![Deepak's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arkz-Deepak&theme=radical)](https://github.com/Arkz-Deepak)
+- 💻 **Machine Learning & AI Intern** — *Tamizhan Skills (RISE Program)*
+- ⚙️ **Engineering & Manufacturing Internships** — CNC/VMC and industrial workflow exposure
+- 🛠️ **Build-a-Bot Hackathon 2026** — Scholarship Policy Compliance Bot (Team Arkz, CIT)
+- 🚦 **SIH 2025** — Smart Traffic Management System architecture
+- 🥇 **Best Student Award** (2025, 2026)
 
 ---
 
-### 📫 Let's Connect
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+**Certifications**
+- Linux Basics — *The Construct*
+- Industrial Robotics — *NPTEL*
+- Digital Circuits — *NPTEL*
+- Joy of Computing using Python — *NPTEL*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arkz-Deepak&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arkz-Deepak&theme=radical" alt="Profile Summary"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robotics-deepak)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wssedd18@gmail.com)
